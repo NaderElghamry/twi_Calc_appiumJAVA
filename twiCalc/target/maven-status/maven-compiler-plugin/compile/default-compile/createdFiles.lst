@@ -1,0 +1,5 @@
+com\TWI\Base\PageBase.class
+com\TWI\Utils\ConfigUtils.class
+com\TWI\Screens\LoginScreen.class
+org\example\Main.class
+com\TWI\Utils\PropertiesUtils.class
